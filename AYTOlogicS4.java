@@ -1,3 +1,7 @@
+/*
+Make more efficient!! Way too many nested for loops!!
+*/
+
 import java.util.Arrays;
 
 import javax.swing.JOptionPane;
